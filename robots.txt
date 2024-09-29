@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://quvecujazute.netlify.app/sitemap.xml
